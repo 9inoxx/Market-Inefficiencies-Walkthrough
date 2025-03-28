@@ -1,2 +1,2 @@
 # Market-Inefficiencies-Walkthrough
-Above are the datasets used throughout the book.
+Currently a work in porogresss, and above are the datasets used in the pdf.
